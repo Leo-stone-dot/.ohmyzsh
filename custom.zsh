@@ -27,12 +27,9 @@ bindkey '^b' zaw-git-branches
 
 alias gty="go mod tidy"
 
-source /Users/zhaixiaolei.leo/.gvm/scripts/gvm
+source $HOME/.gvm/scripts/gvm
 
-source /Users/zhaixiaolei.leo/.oh-my-zsh/plugins/zaw/zaw.zsh
-
-export CONSUL_HTTP_HOST=fdbd:dc03:ff:1:1:37:155:208
-export RUNTIME_IDC_NAME=boe
+source plugins/zaw/zaw.zsh
 
 # If you come from bash you might have to change your $PATH.
 export PATH=/usr/local/bin:$PATH

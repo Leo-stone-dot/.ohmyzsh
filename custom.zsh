@@ -36,4 +36,4 @@ export PATH=/usr/local/bin:$PATH
 export PATH="$PATH:$(go env GOPATH)/bin"
 export PATH="/usr/local/opt/thrift@0.9/bin:$PATH"
 export PATH="/usr/local/opt/llvm/bin:$PATH"
-export PATH=$PATH:/Users/zhaixiaolei.leo/.nexustools
+export PATH=$PATH:$HOME/.nexustools

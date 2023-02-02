@@ -1,0 +1,9 @@
+[submodule ".zsh-syntax-highlighting"]
+	path = .zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule "plugins/zsh-autosuggestions"]
+	path = plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule "themes/powerlevel9k"]
+	path = themes/powerlevel9k
+	url = https://github.com/bhilburn/powerlevel9k.git
